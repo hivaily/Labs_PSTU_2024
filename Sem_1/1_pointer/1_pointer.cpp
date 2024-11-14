@@ -6,11 +6,7 @@ int main()
 {
 	int x, y, z, * a, * b;
 
-	x = 9;
-
-	y = 21;
-
-	cout << x << " " << y << endl;
+	cin >> x >> y;
 
 	a = &x;
 
