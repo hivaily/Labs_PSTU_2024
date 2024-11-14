@@ -6,8 +6,12 @@ int main()
 {
 	int x, y, * a, * b;
 
-	cin >> x >> y;
+	x = 9;
 
+	y = 10;
+
+	cout << x << " " <<	 y << endl;
+		
 	a = &x;
 
 	b = &y;
