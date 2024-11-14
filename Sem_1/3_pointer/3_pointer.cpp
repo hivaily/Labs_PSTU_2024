@@ -14,4 +14,6 @@ int main()
 	b = &y;
 
 	cout << *a + *b;
+
+	return 0;
 }
