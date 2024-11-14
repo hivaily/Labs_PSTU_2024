@@ -7,11 +7,17 @@ int main()
 {
 	float x, y, * a, * b;
 
-	cin >> x >> y;
+	x = 8.4;
+
+	y = 2.5;
+
+	cout << x << " " << y << endl;
 
 	a = &x;
 
 	b = &y;
 
 	cout << *a + *b;
+
+	return 0;
 }
