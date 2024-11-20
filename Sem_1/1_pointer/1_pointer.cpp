@@ -5,17 +5,17 @@ using namespace std;
 int main()
 {
 	system("chcp 1251>NULL");
-	int x, y, z, * a, * b;
+	int x, y, z, * px, * py;
 
 	cout << "Введите значения двух переменных "; cin >> x >> y;
 
-	a = &x;
+	px = &x;
 
-	b = &y;
+	py = &y;
 
-	z = *b;
+	z = *py;
 
-	y = *a;
+	y = *px;
 
 	x = z;
 

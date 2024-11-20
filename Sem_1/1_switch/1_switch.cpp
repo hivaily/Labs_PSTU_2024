@@ -15,14 +15,18 @@ int main()
 		cout << "ƒелить на ноль нельз€!"; return 0;
 	}
 
-	switch (z)
+	else
 	{
-	case 1: cout << x + y; break;
-	case 2: cout << x - y; break;
-	case 3: cout << x * y; break;
-	case 4: cout << x / y; break;
-	default: cout << "¬веден неправильный код операции";
-	}
+		switch (z)
+		{
 
-	return 0;
+		case 1: cout << x + y; break;
+		case 2: cout << x - y; break;
+		case 3: cout << x * y; break;
+		case 4: cout << x / y; break;
+		default: cout << "¬веден неправильный код операции";
+		}
+
+		return 0;
+	}
 }
