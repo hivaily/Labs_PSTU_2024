@@ -7,7 +7,7 @@ int main()
 	int x, y, n;
 
 
-	cout << "Input N N "; cin >> x;
+	cout << "Input N "; cin >> x;
 
 	if (x <= 2) { cout << "Cant build triangle with that N"; return 0; }
 	y = x - 1;
