@@ -1,44 +1,36 @@
-#include <iostream>
+п»ї#include <iostream>
 
 using namespace std;
 int main()
 {
 	system("chcp 1251>NULL");
-	int x, y, n,b,g;
+	int x, y, n, b, g;
 
-	cout << "Введите число N "; cin >> x;
-	cout << "Введите номер метода построения квадрата "; cin >> y;
+	cout << "Input  N "; cin >> x;
+	cout << "Input operation code "; cin >> y;
 
 	switch (y)
 	{
-		case 1:
+	case 1:
+	{
+		n = sqrt(x);
+		if (x == pow(n, 2)) 
 		{
-			n = sqrt(x);
-			if (x != pow(n, 2)) { cout << "Из стольки звёздочек невозможно составить квадрат с помощью данного метода"; break; }
 			for (int i = 1; i < n + 1; i++)
 			{
-			cout << string(n, '*') << endl;
+				cout << string(n, '*') << endl;
 			}
 			break;
 		}
 
-		case 2:
+		else if ((x % 4 == 0) and (x > 2))
 		{
-			if (x < 1) { cout << "Из стольки звёздочек невозможно составить квадрат с помощью данного метода"; break; }
-			for (int i = 1; i < x + 1; i++)
-			{
-				cout << string(x, '*') << endl;
-			}
-			break;
-		}
-
-		case 3:
-		{
-			if (x < 1) { cout << "Из стольки звёздочек невозможно составить квадрат с помощью данного метода"; break; }
+			x = x / 4 + 1;
 			b = x - 2;
 
 			for (int i = 1; i < x; i++)
 			{
+
 				if (i == 1)
 				{
 					cout << string(x, '*') << endl;
@@ -52,18 +44,59 @@ int main()
 					break;
 				}
 
-			}
+		}
 			break;
 
+	
+
 		}
-		default: cout << "Введен несуществующий метод построения";
+		else { cout << "Cant draw square with those amount of stars"; break; }
+
+
+		
+
+		
+	}
+
+	case 2:
+	{
+		if (x < 1) { cout << "Cant draw square with those amount of stars"; break; }
+		for (int i = 1; i < x + 1; i++)
+		{
+			cout << string(x, '*') << endl;
+		}
+		break;
+	}
+
+	case 3:
+	{
+		if (x < 1) { cout << "Cant draw square with those amount of stars"; break; }
+		b = x - 2;
+
+		for (int i = 1; i < x; i++)
+		{
+			if (i == 1)
+			{
+				cout << string(x, '*') << endl;
+			}
+
+			cout << '*' << string(b, ' ') << '*' << endl;
+
+			if (i == x - 2)
+			{
+				cout << string(x, '*') << endl;
+				break;
+			}
+
+		}
+		break;
+
+	}
+	default: cout << "Wrong operation code";
 
 	}
 
 
 	return 0;
 
-
-
-	
 }
