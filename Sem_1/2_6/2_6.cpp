@@ -3,13 +3,12 @@
 using namespace std;
 int main()
 {
-	system("chcp 1251>NULL");
 	int x, y, n;
 
 
-	cout << "¬ведите число N "; cin >> x;
+	cout << "Input N "; cin >> x;
 
-	if (x <= 2) { cout << "¬ведено неверное значение N"; return 0; }
+	if (x <= 2) { cout << "Cant build triangle with that N"; return 0; }
 	y = 0;
 	n = x;
 	for (int i = 1; i < n + 1; i++)
