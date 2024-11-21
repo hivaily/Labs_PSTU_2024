@@ -3,11 +3,10 @@
 using namespace std;
 int main()
 {
-	system("chcp 1251>NULL");
 	int x, y, n, z, g;
 
-	cout << "¬ведите число N "; cin >> x;
-	if ((x % 2 == 0) or (x <= 3)) { cout << "¬ведено неподход€щее значение N"; return 0; }
+	cout << "Input N "; cin >> x;
+	if ((x % 2 == 0) or (x <= 3)) { cout << "Cant build triangle with that N"; return 0; }
 
 	n = x;
 	y = x / 2 + 1;
