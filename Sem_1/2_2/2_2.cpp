@@ -6,7 +6,8 @@ int main()
 	system("chcp 1251>NULL");
 	int x, y, z;
 	y = 1;
-	cout << "Введите количество натуральных чисел "; cin >> x;
+	cout << "Input N"; cin >> x;
+	if (x <= 0) { cout << "Not natural number!"; return 0; }
 	z = x;
 	for (int i = 1; i < z+1; i++)
 	{
@@ -14,7 +15,7 @@ int main()
 		x -= 1;
 	}
 
-	cout << "Произведение этого количества первых натуральных чисел равна " << y;
+	cout << "Mult = " << y;
 	return 0;
 
 
