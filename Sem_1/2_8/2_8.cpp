@@ -3,7 +3,6 @@
 using namespace std;
 int main()
 {
-	system("chcp 1251>NULL");
 	int x, y, n;
 
 
