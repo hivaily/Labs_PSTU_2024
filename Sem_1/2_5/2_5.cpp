@@ -7,9 +7,9 @@ int main()
 	int x, y, n;
 
 
-	cout << "¬ведите число N "; cin >> x;
+	cout << "Input N N "; cin >> x;
 
-	if (x <= 2) { cout << "¬ведено неверное значение N"; return 0; }
+	if (x <= 2) { cout << "Cant build triangle with that N"; return 0; }
 	y = x - 1;
 	n = x;
 	x = 1;
