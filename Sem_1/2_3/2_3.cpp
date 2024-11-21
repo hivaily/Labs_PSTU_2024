@@ -12,30 +12,24 @@ long fact(const int n)
 
 int main()
 {
-	system("chcp 1251>NULL");
-	int x,a,b,sum;
+	int x, a, b, sum;
 	a = 1;
 	b = 2;
 	sum = 0;
 
-	cout << "Введите число N "; cin >> x;
+	cout << "Input N "; cin >> x;
 	if (x < 1) {
-		cout << "Неправильно введённое значение"; return 0;}
+		cout << "Wrong N!"; return 0;
+	}
 
-	while (b <= x)
+	for (int i = 0; i < x; i++)
 	{
 		sum += (fact(b) / fact(a - 1));
 		a += 1;
 		b += 2;
 	}
 
-	if (x > b-2)
-	{
-		sum += fact(x) / fact(a - 1);
-	}
-
-
-	cout << "Сумма равна " << sum;
+	cout << "Sum = " << sum;
 
 	return 0;
 }
