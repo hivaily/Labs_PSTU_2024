@@ -12,7 +12,7 @@ int main()
 	y = x - 1;
 	n = x;
 	x = 1;
-	for (int i = 1; i < n + 1; i++)
+	for (int i = 1; i <= n; i++)
 	{
 		cout << string(x, '*') << string(y, ' ') << endl;
 		y -= 1;

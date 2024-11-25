@@ -13,9 +13,9 @@ int main()
 	case 1:
 	{
 		n = sqrt(x);
-		if (x == pow(n, 2)) 
+		if (x == pow(n, 2))
 		{
-			for (int i = 1; i < n + 1; i++)
+			for (int i = 1; i <= n; i++)
 			{
 				cout << string(n, '*') << endl;
 			}
@@ -27,7 +27,7 @@ int main()
 			x = x / 4 + 1;
 			b = x - 2;
 
-			for (int i = 1; i < x; i++)
+			for (int i = 1; i < x - 1; i++)
 			{
 
 				if (i == 1)
@@ -40,27 +40,26 @@ int main()
 				if (i == x - 2)
 				{
 					cout << string(x, '*') << endl;
-					break;
 				}
 
-		}
+			}
 			break;
 
-	
+
 
 		}
 		else { cout << "Cant draw square with those amount of stars"; break; }
 
 
-		
 
-		
+
+
 	}
 
 	case 2:
 	{
 		if (x < 1) { cout << "Cant draw square with those amount of stars"; break; }
-		for (int i = 1; i < x + 1; i++)
+		for (int i = 1; i <= x; i++)
 		{
 			cout << string(x, '*') << endl;
 		}
@@ -69,10 +68,10 @@ int main()
 
 	case 3:
 	{
-		if (x < 1) { cout << "Cant draw square with those amount of stars"; break; }
+		if (x <= 2) { cout << "Cant draw square with those amount of stars"; break; }
 		b = x - 2;
 
-		for (int i = 1; i < x; i++)
+		for (int i = 1; i < x - 1; i++)
 		{
 			if (i == 1)
 			{
@@ -84,7 +83,6 @@ int main()
 			if (i == x - 2)
 			{
 				cout << string(x, '*') << endl;
-				break;
 			}
 
 		}
