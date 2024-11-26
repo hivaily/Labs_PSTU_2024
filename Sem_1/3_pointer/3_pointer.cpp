@@ -5,17 +5,16 @@ using namespace std;
 
 int main()
 {
-	system("chcp 1251>NULL");
 
 	float x, y, * a, * b;
 
-	cout << "Введите значения двух переменных "; cin >> x >> y;
+	cout << "Input two variables "; cin >> x >> y;
 
 	a = &x;
 
 	b = &y;
 
-	cout << "Сумма = " << *a + *b;
+	cout << "Sum = " << *a + *b;
 
 	return 0;
 }
