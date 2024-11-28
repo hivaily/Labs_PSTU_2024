@@ -5,7 +5,8 @@ int main()
 	int n, tmp, max, min;
 
 	cout << "Input number of nubmers in the sequence "; cin >> n;
-
+	if (n <= 0) { cout << "Error. Number cant be <= 0"; return 0; }
+	
 	for (int i = 1; i <= n; i++)
 	{
 		cout << "Input positive member of sequence "; cin >> tmp;
