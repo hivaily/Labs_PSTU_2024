@@ -4,23 +4,21 @@
 using namespace std;
 int main()
 {
-	float n, s, a;
-	int i = 1;
-	bool flag = false;
-	cin >> n >> s;
-	while (i <= n && !flag)
+	float n, a, max;
+	int i = 2;
+	int num = 1;
+	cin >> n;
+	max = sin(n + 1 / n);
+	while (i <= n)
 	{
 		a = sin(n + i / n);
-		if (a == s) { flag = true; }
-		else { i++; }
+		if (a > max)
+		{
+			max = a;
+			num = i;
+		}
+		i++;
 	}
-	if (flag)
-	{
-		cout << "N Found!" << endl;
-	}
-	else
-	{
-		cout << "N Not found!" << endl;
-	}
-		return 0;
+	cout << "Максимальный элемент: " << max << " Его номер: " << num << endl;
+	return 0;
 }
