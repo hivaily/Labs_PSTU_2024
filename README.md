@@ -1,5 +1,8 @@
                                         Храмцов Илья Владимирович ИВТ 24-1б 
+                          Completed : Everything before EQ (besides 2-9)((i think))
+                          Half-Completed : 2-9, eq_half, eq_Newton
 
+                  
                                           ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⢀⠤⠤⠤⠤⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
                                         ⠀⠀⠀⠀⠀⠀⡠⠔⠉⠀⠀⠀⠀⠀⠀⠀⠀⠉⢳⠤⡀⠀⠀⠀⠀⠀⠀⠀
                                         ⠀⠀⠀⠀⢀⠞⠀⠀⠀⠀⠀⡀⠀⠀⠀⠀⠀⡐⠢⣀⠘⢄⠀⠀⠀⠀⠀⠀
