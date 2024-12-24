@@ -4,10 +4,9 @@ using namespace std;
 
 int main()
 {
-	system("chcp 1251>NULL");
 	int x, y, z, * px, * py;
 
-	cout << "Введите значения двух переменных "; cin >> x >> y;
+	cout << "Input two variables "; cin >> x >> y;
 
 	px = &x;
 
@@ -20,6 +19,6 @@ int main()
 	x = z;
 
 
-	cout << "Обратные = " << x << " " << y;
+	cout << "Reversed variables = " << x << " " << y;
 	return 0;
 }
