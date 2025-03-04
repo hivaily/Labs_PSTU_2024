@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
-
+/* Сформировать массив строк. Удалить из него  К
+ первых строк. */
 int main()
 {
 	int n, nmin = 1, nmax = 10, smin = 97, smax = 121, tmp, k;
