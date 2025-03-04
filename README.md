@@ -3,13 +3,13 @@
 			  Lab_1 (№4 G) - ✔️✔️✔️
      		  Lab_2 (№5 G) - ✔️✔️✔️
 	                  Lab_3 (№6 G) - ✔️✔️✔️
-		          Lab_4 (№10 G) - 🟡🟡🟡
+		          Lab_4 (№10 G) - ✔️✔️✔️
 	                  Lab_5 (№11 G) - ❌❌❌
 		          Lab_6 (№7 G) - ❌❌❌
 	                  sort_bubble - ✔️✔️✔️
 		          sort_choice - ✔️✔️✔️
 	                  sort_insert - ✔️✔️✔️
-		          hanoi -🟡🟡🟡
+		          hanoi -✔️✔️✔️
 	                  8_queens - ✔️✔️✔️
 
                   
