@@ -15,10 +15,7 @@ void hanoi(int n, int start, int tmp, int point)
 
 }
 
-void visual(int n, int rod1, int rod2, int rod3)
-{
 
-}
 
 
 int main()
