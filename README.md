@@ -19,10 +19,10 @@
   | №11.4 | 		 	 ❌ | ❌ |                   |  
   | idef0 | 	 	 	             ❌ | ❌ |                   |  
   | №9 | 		 	 ✅ | ✅ |[Sem_2/Lab_6/](https://github.com/hivaily/Labs_PSTU_2024/tree/main/Sem_2/Lab_6)                   |  
-  | Сложные сортировки |   	 ❌ | ❌ |                   |  
-  | Сортировка Шелла, Хоара|  	 ❌ | ❌ |                   |  
+  | Сложные сортировки |   	 ✅ | ❌ ||[Sem_2/hard_sort/](https://github.com/hivaily/Labs_PSTU_2024/tree/main/Sem_2/hard_sort)                      |  
+  | Сортировка Шелла, Хоара|  	 ✅ | ❌ ||[Sem_2/s_h_sort/](https://github.com/hivaily/Labs_PSTU_2024/tree/main/Sem_2/s_h_sort)                      |  
   | Многофазная и естественная|  	 ❌ | ❌ |                   |  
-  | Поиски: линейный, интер. бин.| ❌ | ❌ |                   |  
+  | Поиски: линейный, интер. бин.| ✅ | ❌ ||[Sem_2/searches/](https://github.com/hivaily/Labs_PSTU_2024/tree/main/Sem_2/searches)                      |  
   | Поиски: Кнут. и Бойер.|  	 ❌ | ❌ |                   |  
   | Хэш-таблицы |  		 ❌ | ❌ |                   |  
   |--------------------------------------------------|
