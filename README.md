@@ -13,10 +13,10 @@
   | №7.2 | 		 	   ✅ | ✅ |[Sem_2/Lab_5.2/](https://github.com/hivaily/Labs_PSTU_2024/tree/main/Sem_2/Lab_5.2)|  
   | №6 |  	  	 	 ✅ | ✅ |[Sem_2/Lab_3/](https://github.com/hivaily/Labs_PSTU_2024/tree/main/Sem_2/Lab_3)|  
   | №10 | 		 	   ✅ | ✅ |[Sem_2/Lab_4/](https://github.com/hivaily/Labs_PSTU_2024/tree/main/Sem_2/Lab_4) |  
-  | №11.1 |		 	   ❌ | ❌ |                   |  
-  | №11.2 |		 	   ❌ | ❌ |                   |  
-  | №11.3 |		 	   ❌ | ❌ |                   |  
-  | №11.4 | 		 	 ❌ | ❌ |                   |  
+  | №11.1 |		 	   ✅ | ❌ |                   |  
+  | №11.2 |		 	   ✅ | ❌ |                   |  
+  | №11.3 |		 	   ✅ | ❌ |                   |  
+  | №11.4 | 		 	 ✅ | ❌ |                   |  
   | idef0 | 	 	 	             ❌ | ❌ |                   |  
   | №9 | 		 	 ✅ | ✅ |[Sem_2/Lab_6/](https://github.com/hivaily/Labs_PSTU_2024/tree/main/Sem_2/Lab_6)                   |  
   | Сложные сортировки |   	 ✅ | ✅ |[Sem_2/hard_sort/](https://github.com/hivaily/Labs_PSTU_2024/tree/main/Sem_2/hard_sort)                      |  
