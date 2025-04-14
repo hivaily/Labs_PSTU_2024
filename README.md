@@ -25,7 +25,7 @@
   | Поиски: линейный, интер. бин.| ✅ | ❌ |[Sem_2/searches/](https://github.com/hivaily/Labs_PSTU_2024/tree/main/Sem_2/searches)                      |  
   | Поиски: Кнут. и Бойер.|  	 ✅ | ❌ |  [Sem_2/searches/](https://github.com/hivaily/Labs_PSTU_2024/tree/main/Sem_2/searches)                     |  
   | Хэш-таблицы |  		 ❌ | ❌ |                   |  
-  | Классы |  		 1-2 | 0 | [Sem_2/Classes/](https://github.com/hivaily/Labs_PSTU_2024/tree/main/Sem_2/Classes)                      |  
+  | Классы |  		 1-4 | 0 | [Sem_2/Classes/](https://github.com/hivaily/Labs_PSTU_2024/tree/main/Sem_2/Classes)                      |  
   |-------------|---------|----|------------------------|
 
   | **Сумма** | код 18/22+ | б/с 13/22+ |  
