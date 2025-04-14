@@ -26,7 +26,6 @@
   | Поиски: Кнут. и Бойер.|  	 ✅ | ❌ |  [Sem_2/searches/](https://github.com/hivaily/Labs_PSTU_2024/tree/main/Sem_2/searches)                     |  
   | Хэш-таблицы |  		 ❌ | ❌ |                   |  
   | Классы |  		 1-4 | 0 | [Sem_2/Classes/](https://github.com/hivaily/Labs_PSTU_2024/tree/main/Sem_2/Classes)                      |  
-  |-------------|---------|----|------------------------|
 
   | **Сумма** | код 23/36 | б/с 13/36 |  
 
