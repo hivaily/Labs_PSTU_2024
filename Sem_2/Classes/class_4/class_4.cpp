@@ -1,7 +1,7 @@
 ﻿#include <iostream>
 using namespace std;
 
-/* var 9
+/* var 9 Базовый класс triad - три int поля first, second, third. Определить методы изменения и сравнения. Создать производный класс TIME с полями часы, минуты, секунды. Определить полный набор операций сравнения.
 */
 
 class triad
