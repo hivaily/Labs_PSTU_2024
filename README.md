@@ -1,7 +1,7 @@
                                         Храмцов Илья Владимирович ИВТ 24-1б
-  | ✅🕐❌ |  
+  ✅🕐❌ 
   | ID задания |Код | Схема | Расположение |                                                  
-  |-----------------------------------------------|  
+  |-------------|-----|----|-------------------------|  
   | Пузырёк |	 	 	 ✅ | ✅ |[Sem_2/sort_bubble/](https://github.com/hivaily/Labs_PSTU_2024/tree/main/Sem_2/sort_bubble)|   
   | Выбор |  	 	 	 ✅ | ✅ |[Sem_2/sort_choice/](https://github.com/hivaily/Labs_PSTU_2024/tree/main/Sem_2/sort_choice)|  
   | Вставки |	 	 	 ✅ | ✅ |[Sem_2/sort_insert/](https://github.com/hivaily/Labs_PSTU_2024/tree/main/Sem_2/sort_insert)|  
@@ -13,11 +13,11 @@
   | №7.2 | 		 	   ✅ | ✅ |[Sem_2/Lab_5.2/](https://github.com/hivaily/Labs_PSTU_2024/tree/main/Sem_2/Lab_5.2)|  
   | №6 |  	  	 	 ✅ | ✅ |[Sem_2/Lab_3/](https://github.com/hivaily/Labs_PSTU_2024/tree/main/Sem_2/Lab_3)|  
   | №10 | 		 	   ✅ | ✅ |[Sem_2/Lab_4/](https://github.com/hivaily/Labs_PSTU_2024/tree/main/Sem_2/Lab_4) |  
-  | №11.1 |		 	   ❌ | ❌ |                   |  
-  | №11.2 |		 	   ❌ | ❌ |                   |  
-  | №11.3 |		 	   ❌ | ❌ |                   |  
-  | №11.4 | 		 	 ❌ | ❌ |                   |  
-  | idef0 | 	 	 	             ❌ | ❌ |                   |  
+  | №11.1 |		 	   ✅ | ❌ |[Sem_2/Lab_7/Lab_7.1](https://github.com/hivaily/Labs_PSTU_2024/tree/main/Sem_2/Lab_7/Lab_7.1)               |  
+  | №11.2 |		 	   ✅ | ❌ |[Sem_2/Lab_7/Lab_7.2](https://github.com/hivaily/Labs_PSTU_2024/tree/main/Sem_2/Lab_7/Lab_7.2)            |  
+  | №11.3 |		 	   ✅ | ❌ |[Sem_2/Lab_7/Lab_7.3](https://github.com/hivaily/Labs_PSTU_2024/tree/main/Sem_2/Lab_7/Lab_7.3)               |  
+  | №11.4 | 		 	 ✅ | ❌ |[Sem_2/Lab_7/Lab_7.4](https://github.com/hivaily/Labs_PSTU_2024/tree/main/Sem_2/Lab_7/Lab_7.4)                   |  
+  | idef0 | 	 	 	           ✅ |  ✅ | [Sem_2/idef0/](https://github.com/hivaily/Labs_PSTU_2024/tree/main/Sem_2/idef0)   |  
   | №9 | 		 	 ✅ | ✅ |[Sem_2/Lab_6/](https://github.com/hivaily/Labs_PSTU_2024/tree/main/Sem_2/Lab_6)                   |  
   | Сложные сортировки |   	 ✅ | ✅ |[Sem_2/hard_sort/](https://github.com/hivaily/Labs_PSTU_2024/tree/main/Sem_2/hard_sort)                      |  
   | Сортировка Шелла, Хоара|  	 ✅ | ✅ |[Sem_2/s_h_sort/](https://github.com/hivaily/Labs_PSTU_2024/tree/main/Sem_2/s_h_sort)                      |  
@@ -25,9 +25,9 @@
   | Поиски: линейный, интер. бин.| ✅ | ❌ |[Sem_2/searches/](https://github.com/hivaily/Labs_PSTU_2024/tree/main/Sem_2/searches)                      |  
   | Поиски: Кнут. и Бойер.|  	 ❌ | ❌ |                   |  
   | Хэш-таблицы |  		 ❌ | ❌ |                   |  
-  |--------------------------------------------------|
+  |-------------|---------|----|------------------------|
 
-  | **Сумма** | 12/22? | 12/22? |  
+  | **Сумма** | код 18/22+ | б/с 13/22+ |  
 
                   
                                           ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⢀⠤⠤⠤⠤⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
