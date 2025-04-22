@@ -13,16 +13,16 @@
   | №7.2 | 		 	   ✅ | ✅ |[Sem_2/Lab_5.2/](https://github.com/hivaily/Labs_PSTU_2024/tree/main/Sem_2/Lab_5.2)|  
   | №6 |  	  	 	 ✅ | ✅ |[Sem_2/Lab_3/](https://github.com/hivaily/Labs_PSTU_2024/tree/main/Sem_2/Lab_3)|  
   | №10 | 		 	   ✅ | ✅ |[Sem_2/Lab_4/](https://github.com/hivaily/Labs_PSTU_2024/tree/main/Sem_2/Lab_4) |  
-  | №11.1 |		 	   ✅ | ❌ |[Sem_2/Lab_7/Lab_7.1](https://github.com/hivaily/Labs_PSTU_2024/tree/main/Sem_2/Lab_7/Lab_7.1)               |  
-  | №11.2 |		 	   ✅ | ❌ |[Sem_2/Lab_7/Lab_7.2](https://github.com/hivaily/Labs_PSTU_2024/tree/main/Sem_2/Lab_7/Lab_7.2)            |  
-  | №11.3 |		 	   ✅ | ❌ |[Sem_2/Lab_7/Lab_7.3](https://github.com/hivaily/Labs_PSTU_2024/tree/main/Sem_2/Lab_7/Lab_7.3)               |  
-  | №11.4 | 		 	 ✅ | ❌ |[Sem_2/Lab_7/Lab_7.4](https://github.com/hivaily/Labs_PSTU_2024/tree/main/Sem_2/Lab_7/Lab_7.4)                   |  
+  | №11.1 |		 	   ✅ | ✅ |[Sem_2/Lab_7/Lab_7.1](https://github.com/hivaily/Labs_PSTU_2024/tree/main/Sem_2/Lab_7/Lab_7.1)               |  
+  | №11.2 |		 	   ✅ | ✅ |[Sem_2/Lab_7/Lab_7.2](https://github.com/hivaily/Labs_PSTU_2024/tree/main/Sem_2/Lab_7/Lab_7.2)            |  
+  | №11.3 |		 	   ✅ | ✅ |[Sem_2/Lab_7/Lab_7.3](https://github.com/hivaily/Labs_PSTU_2024/tree/main/Sem_2/Lab_7/Lab_7.3)               |  
+  | №11.4 | 		 	 ✅ | ✅ |[Sem_2/Lab_7/Lab_7.4](https://github.com/hivaily/Labs_PSTU_2024/tree/main/Sem_2/Lab_7/Lab_7.4)                   |  
   | idef0 | 	 	 	           ✅ |  ✅ | [Sem_2/idef0/](https://github.com/hivaily/Labs_PSTU_2024/tree/main/Sem_2/idef0)   |  
   | №9 | 		 	 ✅ | ✅ |[Sem_2/Lab_6/](https://github.com/hivaily/Labs_PSTU_2024/tree/main/Sem_2/Lab_6)                   |  
   | Сложные сортировки |   	 ✅ | ✅ |[Sem_2/hard_sort/](https://github.com/hivaily/Labs_PSTU_2024/tree/main/Sem_2/hard_sort)                      |  
   | Сортировка Шелла, Хоара|  	 ✅ | ✅ |[Sem_2/s_h_sort/](https://github.com/hivaily/Labs_PSTU_2024/tree/main/Sem_2/s_h_sort)                      |  
   | Многофазная и естественная|  	 ❌ | ❌ |                   |  
-  | Поиски: линейный, интер. бин.| ✅ | ❌ |[Sem_2/searches/](https://github.com/hivaily/Labs_PSTU_2024/tree/main/Sem_2/searches)                      |  
+  | Поиски: линейный, интер. бин.| ✅ | ✅ |[Sem_2/searches/](https://github.com/hivaily/Labs_PSTU_2024/tree/main/Sem_2/searches)                      |  
   | Поиски: Кнут. и Бойер.|  	 ✅ | ❌ |  [Sem_2/searches/](https://github.com/hivaily/Labs_PSTU_2024/tree/main/Sem_2/searches)                     |  
   | Хэш-таблицы |  		 ❌ | ❌ |                   |  
   | Классы |  		 1-5 | 0 | [Sem_2/Classes/](https://github.com/hivaily/Labs_PSTU_2024/tree/main/Sem_2/Classes)                      |  
