@@ -24,7 +24,7 @@
   | Многофазная и естественная|  	 ✅ | ❌ | [Sem_2/MP_sort](https://github.com/hivaily/Labs_PSTU_2024/tree/main/Sem_2/MP_sort) and [Sem_2/N_sort](https://github.com/hivaily/Labs_PSTU_2024/tree/main/Sem_2/N_Sort)                   |  
   | Поиски: линейный, интер. бин.| ✅ | ✅ |[Sem_2/searches/](https://github.com/hivaily/Labs_PSTU_2024/tree/main/Sem_2/searches)                      |  
   | Поиски: Кнут. и Бойер.|  	 ✅ | ✅ |  [Sem_2/searches/](https://github.com/hivaily/Labs_PSTU_2024/tree/main/Sem_2/searches)                     |  
-  | Хэш-таблицы |  		 ✅ | ❌ | [Sem_2/hash](https://github.com/hivaily/Labs_PSTU_2024/tree/main/Sem_2/hash)                  |  
+  | Хэш-таблицы |  		 ✅ | ✅ | [Sem_2/hash](https://github.com/hivaily/Labs_PSTU_2024/tree/main/Sem_2/hash)                  |  
   | Классы |  		 ✅ | ✅ | [Sem_2/Classes/](https://github.com/hivaily/Labs_PSTU_2024/tree/main/Sem_2/Classes)                      |  
   | Деревья |  		 ✅ | ✅ | [Sem_2/BinaryTree](https://github.com/hivaily/Labs_PSTU_2024/tree/main/Sem_2/BinaryTree)                  |  
   | Графы |  		 ✅ | ✅ | [Sem_2/Graph_and_Salesman](https://github.com/hivaily/Labs_PSTU_2024/tree/main/Sem_2/Graph_and_Salesman)                  |  
