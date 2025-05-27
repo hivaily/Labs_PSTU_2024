@@ -16,7 +16,6 @@ SOURCES += \
 
 HEADERS += \
     mainwindow.h \
-    tree.h \
     treeclass.h \
     treewidget.h
 
