@@ -21,14 +21,14 @@
   | №9 | 		 	 ✅ | ✅ |[Sem_2/Lab_6/](https://github.com/hivaily/Labs_PSTU_2024/tree/main/Sem_2/Lab_6)                   |  
   | Сложные сортировки |   	 ✅ | ✅ |[Sem_2/hard_sort/](https://github.com/hivaily/Labs_PSTU_2024/tree/main/Sem_2/hard_sort)                      |  
   | Сортировка Шелла, Хоара|  	 ✅ | ✅ |[Sem_2/s_h_sort/](https://github.com/hivaily/Labs_PSTU_2024/tree/main/Sem_2/s_h_sort)                      |  
-  | Многофазная и естественная|  	 ❌ | ❌ |                   |  
+  | Многофазная и естественная|  	 ✅ | ❌ | [Sem_2/MP_sort](https://github.com/hivaily/Labs_PSTU_2024/tree/main/Sem_2/MP_sort) and [Sem_2/N_sort](https://github.com/hivaily/Labs_PSTU_2024/tree/main/Sem_2/N_Sort)                   |  
   | Поиски: линейный, интер. бин.| ✅ | ✅ |[Sem_2/searches/](https://github.com/hivaily/Labs_PSTU_2024/tree/main/Sem_2/searches)                      |  
   | Поиски: Кнут. и Бойер.|  	 ✅ | ✅ |  [Sem_2/searches/](https://github.com/hivaily/Labs_PSTU_2024/tree/main/Sem_2/searches)                     |  
-  | Хэш-таблицы |  		 ❌ | ❌ |                   |  
-  | Классы |  		 1-5 | 1-5 | [Sem_2/Classes/](https://github.com/hivaily/Labs_PSTU_2024/tree/main/Sem_2/Classes)                      |  
-  | Деревья |  		 ❌ | ❌ |                   |  
-  | Графы |  		 ❌ | ❌ |                   |  
-  | **Сумма** | 24/36 | 24/36 |    | 
+  | Хэш-таблицы |  		 ✅ | ❌ | [Sem_2/hash](https://github.com/hivaily/Labs_PSTU_2024/tree/main/Sem_2/hash)                  |  
+  | Классы |  		 ✅ | ✅ | [Sem_2/Classes/](https://github.com/hivaily/Labs_PSTU_2024/tree/main/Sem_2/Classes)                      |  
+  | Деревья |  		 ✅ | ✅ | [Sem_2/BinaryTree](https://github.com/hivaily/Labs_PSTU_2024/tree/main/Sem_2/BinaryTree)                  |  
+  | Графы |  		 ✅ | ✅ | [Sem_2/Graph_and_Salesman](https://github.com/hivaily/Labs_PSTU_2024/tree/main/Sem_2/Graph_and_Salesman)                  |  
+  | **Сумма** | 36/36 | 34/36 |    | 
 
                   
                                           ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⢀⠤⠤⠤⠤⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
