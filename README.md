@@ -28,7 +28,7 @@
   | Классы |  		 ✅ | ✅ | [Sem_2/Classes/](https://github.com/hivaily/Labs_PSTU_2024/tree/main/Sem_2/Classes)                      |  
   | Деревья |  		 ✅ | ✅ | [Sem_2/BinaryTree](https://github.com/hivaily/Labs_PSTU_2024/tree/main/Sem_2/BinaryTree)                  |  
   | Графы |  		 ✅ | ✅ | [Sem_2/Graph_and_Salesman](https://github.com/hivaily/Labs_PSTU_2024/tree/main/Sem_2/Graph_and_Salesman)                  |  
-  | **Сумма** | 36/36 | 34/36 |    | 
+  | **Сумма** | 36/36 | 35/36 |    | 
 
                   
                                           ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⢀⠤⠤⠤⠤⢀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
