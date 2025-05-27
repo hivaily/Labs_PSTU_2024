@@ -73,7 +73,7 @@ Tree::Node* Tree::remove(Node* node, int key) {
             delete node;
             return temp;
         } else {
-            // Находим минимальный узел в правом поддереве
+
             Node* minRight = node->right;
             while (minRight->left) {
                 minRight = minRight->left;
